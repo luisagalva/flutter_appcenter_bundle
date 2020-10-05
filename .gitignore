@@ -109,6 +109,7 @@ output.json
 .packages
 .pub-cache/
 .pub/
+pubspec.lock
 
 # Android related
 **/android/**/gradle-wrapper.jar
